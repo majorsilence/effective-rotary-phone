@@ -1,5 +1,5 @@
 # effective-rotary-phone
-Gohper server and protocol stuff
+Gopher server and protocol stuff
 
 I find this amusing 🤣. 
 
